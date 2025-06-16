@@ -88,7 +88,7 @@ A comprehensive dashboard was developed by assembling the pivot charts to allow 
 Slicer Application:
 Slicers were added via Insert > Slicer, allowing dynamic filtering by fields such as gender, country, category, and selfMade.
 
-![GITHUB_BILLIONAIRE_EXCEL_Dashboard](GITHUB_BILLIONAIRE_EXCEL_Dashboard.Pdf)
+![Billionaire_dasboard](Billionaire_dasboard.PNG)
 
 
 ## Conclusion and Recommendations
