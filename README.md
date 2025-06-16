@@ -73,6 +73,9 @@ The Age column was moved to appear after the population_country column using dra
 
 - Descriptive Statistics:
 Descriptive statistics were performed using Excel’s Data Analysis Toolpak. The Analysis Toolpak add-in was enabled, and the dataset was analyzed by selecting “Descriptive Statistics” and checking the box for "Labels in First Row".
+
+![Descriptive_statistics](Descriptive_statistics.xlsx)
+
 - The following Pivot tables and charts were created:
   1. Gender vs Count of Gender
   2. Category vs Sum of Final Worth (Top 10 Categories)
